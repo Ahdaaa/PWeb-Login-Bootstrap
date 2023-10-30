@@ -10,6 +10,12 @@ body{
     font-family: Okta;
     z-index: 1;
     color: white;
+    height: 100vh;
+    
+}
+
+.navbar{
+    height: 15%;
 }
 
 *{
@@ -75,6 +81,3 @@ input {
     background-color: green !important;
     box-shadow: none;
 }
-
-
-
